@@ -1,0 +1,1 @@
+![[Windows Forensics Cheatsheet.pdf]]![[LinuxForensicsCheatsheet-1651286283085.pdf]]
